@@ -175,7 +175,7 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-    background-image: url('./pinw.png');
+    /* background-image: url('./pinw.png'); */
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
